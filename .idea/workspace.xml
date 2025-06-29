@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c023a9-3b37-4ccd-9838-ec73aa7b6b97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 3: Module 4: Functions &amp; Modules in Python/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 3: Module 4: Functions &amp; Modules in Python/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 3: Module 4: Functions &amp; Modules in Python/Task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python /README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python /Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python/Task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python /Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1 (3).executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_2 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.python Task 1.py.executor&quot;: &quot;Run&quot;,
@@ -66,7 +67,7 @@
       <recent name="$PROJECT_DIR$/ASSIGNMENT 1: Module 2: Basic Python Concepts " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_1 (2)">
+  <component name="RunManager" selected="Python.Task_2 (1)">
     <configuration name="Task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -113,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ASSIGNMENT 1: Module 2: Basic Python Concepts /Task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python/Task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_2 (1)" />
         <item itemvalue="Python.Task_1 (2)" />
         <item itemvalue="Python.Task_1 (1)" />
         <item itemvalue="Python.Task_2" />
         <item itemvalue="Python.python Task 1.py" />
-        <item itemvalue="Python.Task_1" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751027856407</updated>
-      <workItem from="1751027857697" duration="8740000" />
+      <workItem from="1751027857697" duration="11170000" />
     </task>
     <servers />
   </component>
@@ -216,10 +217,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$python_Task_1_py.coverage" NAME="python Task 1.py Coverage Results" MODIFIED="1751029078054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$Task_2__1_.coverage" NAME="Task_2 (1) Coverage Results" MODIFIED="1751192573238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python " />
+    <SUITE FILE_PATH="coverage/PythonProject$Task_2__1_.coverage" NAME="Task_2 (1) Coverage Results" MODIFIED="1751208368414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python" />
     <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="Task 1 Coverage Results" MODIFIED="1751028532450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$Task_2.coverage" NAME="Task_2 Coverage Results" MODIFIED="1751116015627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$Task_1__1_.coverage" NAME="Task_1 (1) Coverage Results" MODIFIED="1751192425622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASSIGNMENT 2: Module 3: Control Structures in Python " />
+    <SUITE FILE_PATH="coverage/PythonProject$Task_1__3_.coverage" NAME="Task_1 (3) Coverage Results" MODIFIED="1751207707454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASSIGNMENT 4: Module 5: Files, Exceptions, and Errors in Python" />
     <SUITE FILE_PATH="coverage/PythonProject$Task_1__2_.coverage" NAME="Task_1 (2) Coverage Results" MODIFIED="1751194308511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASSIGNMENT 3: Module 4: Functions &amp; Modules in Python" />
   </component>
 </project>
