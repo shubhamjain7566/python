@@ -28,9 +28,6 @@ Enter your first name: John
 Enter your last name: Doe
 Hello, John Doe! Welcome to the Python programming world.
 
-arduino
-Copy
-Edit
 
 ## ✅ How to Run
 You can run the scripts using any Python 3 interpreter:
